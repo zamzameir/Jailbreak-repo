@@ -1,0 +1,24 @@
+<package>
+	<id>com.foxfort.facebookdarkmode</id>
+	<name>FacebookDarkMode</name>
+	<version>2.1.10</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>11.4</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>
+	</dependencies>
+	<descriptionlist>
+		<description>Bypass deb from official repo</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Fixed pirated error alert</change>
+	</changelog>
+	<links></links>
+</package>
